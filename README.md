@@ -23,3 +23,5 @@ Tools and Technologies
 Python: For all data processing and machine learning tasks.
 Libraries: Pandas, Matplotlib, NumPy, Scikit-Learn for data manipulation and visualization.
 Google Colab: Used for executing Python notebooks in a cloud-based environment.
+
+![image](https://github.com/pbendarkar/DA-to-Predict-Customer-purchase/assets/158385056/f839dde9-1feb-4089-a595-3b5d35dee3c0)
